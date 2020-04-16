@@ -16,3 +16,4 @@ for image in args.img:
     if not my_file == 'image/jpg':
       print('%s is not a jpeg' % (image))
       sys.exit(1)
+
